@@ -1,0 +1,42 @@
+
+
+/* form style*/
+
+.div-to-align {
+  width: 75%;
+  height: 50%;
+  padding-top:5%;
+  padding-bottom:5% ;
+  margin: 5%;
+ 
+
+
+  /* .... */
+}
+/* table */
+.div-to-align-table {
+  width: 75%;
+  height: 50%;
+  /* padding-top:5%; */
+  padding-bottom:5% ;
+  margin: 5%;
+}
+
+.div-to-auth {
+  width: 45%;
+  height: 50%;
+  /* padding-top:5%; */
+  padding-bottom:5% ;
+  margin: 5%;
+  margin-left: 20%;
+}
+/* Image */
+.circular--square { border-radius: 90%; width: 50%; height: 20%; object-fit:cover; }
+
+.avatar{
+  padding-left: 20%;
+}
+
+.icons{
+
+}
